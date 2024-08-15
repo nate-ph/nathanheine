@@ -2,27 +2,23 @@
   "socialIcons": [
     {
       "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
+      "url": "https://web.facebook.com/nathan.heine.7/"
     },
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/stackrole/"
+      "url": "https://www.instagram.com/nate_ph/"
     },
     {
       "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
+      "url": "https://www.linkedin.com/in/nathan-heine-211709232/"
     },
     {
       "icon": "youtube",
       "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
     },
     {
-      "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
-    },
-    {
-      "icon": "tiktok",
-      "url": "https://tiktok.com/"
+      "icon": "github",
+      "url": "https://github.com/nate-ph"
     }
   ]
 }
