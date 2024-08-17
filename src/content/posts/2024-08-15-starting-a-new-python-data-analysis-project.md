@@ -8,7 +8,7 @@ description: Discover how to analyze National Rugby League (NRL) statistics with
   clean, and visualize data, and create interactive dashboards to uncover
   insights into player and team success. Perfect for data enthusiasts and sports
   analysts looking to enhance their skills.
-featuredImage: ""
+featuredImage: /assets/new-projects.jpg
 ---
 # Creating a New Python Data Analysis Project: National Rugby League Statistics
 
