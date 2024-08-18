@@ -9,7 +9,7 @@ After completing my studies in Psychology and Criminology and earning an MSc in 
 
 
 
-![Toys](/assets/dall·e-2024-08-18-11.28.35-a-modern-visually-appealing-image-featuring-the-name-nathan-heine-prominently-displayed-with-elements-representing-coding-and-new-zealand.-the-des.webp "Toys")
+![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
 
 Throughout my projects, I’ve leveraged a variety of tools and technologies to bring my ideas to life. These include Python, where I utilize libraries such as BeautifulSoup and Selenium for web scraping, as well as SQLAlchemy for database management. My proficiency in Power BI has been instrumental in creating insightful data visualizations, and I’ve also gained hands-on experience with web development using HTML, CSS, and JavaScript.
 
